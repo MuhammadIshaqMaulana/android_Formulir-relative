@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Formulir Relattive</string>
+    <string-array name="arr_prodi">
+        <item>Informatika</item>
+        <item>Sistem Informasi</item>
+        <item>Teknik Elektro</item>
+        <item>Akuntansi</item>
+        <item>Manajemen</item>
+        <item>Manajemen Informatika</item>
+    </string-array>
+</resources>
